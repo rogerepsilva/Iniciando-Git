@@ -1,0 +1,39 @@
+.conteudo__principal {
+    width: 100%;
+}
+
+.texto {
+    display: inline-block;
+    padding: .5rem 2rem;
+    text-align: justify;
+}
+
+/* .conteudo__principal--div{
+    width: 100%;
+} */
+
+.conteudo__principal--imagem{
+    float: left;
+    width: 60%;
+    border-radius: 10px;
+    margin: 1rem;
+}
+
+.conteudo__principal--imagem2 {
+    max-width: 200px;
+}
+
+.secao {
+    text-align: center;
+}
+
+.secao__p{
+    width: 50%;
+    margin: 1rem 50%;
+    transform: translateX(-50%);
+}
+
+.secao__img{
+    width: 90%;
+    border-radius: 15px;
+}

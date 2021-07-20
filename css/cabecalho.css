@@ -1,0 +1,21 @@
+.cabecalho {
+    width: 100%;
+    display: flex;
+}
+
+.cabecalho__titulo {
+    position: absolute;
+    top: 20%;
+    transform: translateY(-50%);
+    flex-wrap: wrap;
+    color: #fff;
+    width: 100%vw;
+    text-align: center;
+    font-size: 3rem;
+    border-style: black;
+}
+
+.cabecalho__imagem{
+    width: 100%;
+    margin-bottom: 2rem;
+}
